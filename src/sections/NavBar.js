@@ -25,7 +25,7 @@ export default class NavBar extends Component {
                         className="navbar-brand fs-1 fw-bolder ps-lg-4"
                         to="/"
                     >
-                        SUDI <span className=" text-purple">.</span>
+                        KINYUA <span className=" text-purple">.</span>
                     </Link>
 
                     <button
@@ -55,7 +55,7 @@ export default class NavBar extends Component {
                                     className="navbar-brand fs-1 fw-bolder"
                                     to="/"
                                 >
-                                    SUDI <span className=" text-purple">.</span>
+                                    KINYUA <span className=" text-purple">.</span>
                                 </Link>
                             </h5>
                             <button

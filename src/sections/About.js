@@ -51,12 +51,12 @@ export default class About extends Component {
                                             About Me
                                         </h1>
                                         <div className="p-lg-3">
-                                            My name is Sudi Abdalla , I'm a
-                                            Computer Technology student at <br/>
+                                            My name is Brian Kinyua Ngatia , I'm a
+                                            Information Technology(IT) undergraduate student at <br/>
                                             <a className="text-info fw-bold" href="https://mmu.ac.ke">Multimedia University of Kenya</a>.
-                                            <br />I was born on April 8th
-                                            2000. I'm passionate about <span className="text-success">coding</span> and
-                                            I enjoy watching <span className="text-danger">anime</span>
+                                            <br />I was born on April 6th
+                                            2001. I'm passionate about <span className="text-success">coding</span> and
+                                            I enjoy <span className="text-danger">travelling</span>
                                         </div>
 
                                         <div className="my-5 me-5 position-relative">

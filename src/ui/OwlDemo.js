@@ -47,7 +47,7 @@ export class OwlDemo extends Component {
                                         <div className="col-md-12 text-center">
                                             <div className="card-body">
                                                 <h5 className="card-title">
-                                                    Moirraine Ae Sedai
+                                                    Brian Kinyua Ngatia
                                                 </h5>
                                                 <p className="card-text">
                                                     Wouldn't it be nice if this

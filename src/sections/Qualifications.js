@@ -50,7 +50,7 @@ export default class Qualifications extends Component {
                     </p>
                     <ButtonLink
                         text="Certificates"
-                        link="https://drive.google.com/drive/u/0/folders/1aPSWAmkkk3f7Z5fBXsi-mWPrY4_qAqUd"
+                        link=""
                     />
                     <div className="py-3"></div>
                 </div>

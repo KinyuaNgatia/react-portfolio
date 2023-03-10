@@ -47,7 +47,7 @@ export default class Header extends Component {
                             <div className="py-5 py-lg-0"></div>
                             <h2 className="  display-5 fw-bolder">HELLO</h2>
                             <h2 className="  display-3 fw-bolder">
-                                I AM <span className="text-purple">SUDI</span>
+                                I AM <span className="text-purple">KINYUA</span>
                             </h2>
                             <div className="lead fw-bolder">
                                 <Typewriter
@@ -78,7 +78,7 @@ export default class Header extends Component {
                                 
                                 <ButtonLink
                                     text="Hire Me"
-                                    link={"https://www.upwork.com/freelancers/~0125f71b5182fcca25"}
+                                    link={"https://wa.me/254725739910"}
                                 />
                                 
                                 
